@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WYQET47XdIN8Z3jxpk/En57N+lAXrfYerFQDpZZBYpPSUl6KxdJravXqMnRD5fF7M2tIilPjtAyD+Aj+UjWLaw==",
+  "dgSpecHash": "l8qaOAYa2k+0R6BWuPywL2OerouDp8NnfiZAS1x1jCTksGR4yKvMS9T0xcXJBo0TSCtpfk24VMdn2ICfTzWviQ==",
   "success": true,
   "projectFilePath": "/Users/samanthakyramendoza/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
   "expectedPackageFiles": [
     "/Users/samanthakyramendoza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/samanthakyramendoza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/samanthakyramendoza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
     "/Users/samanthakyramendoza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
